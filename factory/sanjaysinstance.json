@@ -1,0 +1,9 @@
+{
+	"name": "sanjaysinstance",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "924be017-a4e5-44ba-8b18-cbcba5bed5c5",
+		"tenantId": "092cc133-d711-43de-8d33-f3e8a0f0f318"
+	}
+}
